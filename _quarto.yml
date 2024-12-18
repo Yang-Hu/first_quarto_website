@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Travel plan 2024-2025"
+  title: "Travel 2024-2025"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Destination
+      - href: about.qmd
+        text: About
 
 format:
   html:
