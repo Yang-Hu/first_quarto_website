@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Destination",
+    "section": "",
+    "text": "JapanChina\n\n\n\n\n\nHonda Collection Hall, Motegi\n\n\n\n\n\nTōshō-gū, Nikkō\n\n\n\n\n\nCity view, Tokyo\n\n\n\n\n\n\n\nForbidden City, Beijing\n\n\n\n\n\nCity view, Karamay"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is my first deployed website, which is made in R via Quarto."
+  }
+]

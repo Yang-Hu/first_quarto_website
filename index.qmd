@@ -1,0 +1,26 @@
+---
+title: "Destination"
+---
+
+
+::: {.panel-tabset}
+
+## Japan
+
+![Honda Collection Hall, Motegi](img/motegi.jpg)
+
+
+![Tōshō-gū, Nikkō](img/nikko.jpg)
+
+
+![City view, Tokyo](img/tokyo.jpg)
+
+
+## China
+
+![Forbidden City, Beijing](img/beijing.jpg)
+
+
+![City view, Karamay](img/karamay.jpg)
+
+:::
