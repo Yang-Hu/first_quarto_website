@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "This is my first deployed website, which is made in R via Quarto."
+  },
+  {
+    "objectID": "about.html#steps-of-making-a-quarto-website",
+    "href": "about.html#steps-of-making-a-quarto-website",
+    "title": "About",
+    "section": "Steps of making a Quarto website",
+    "text": "Steps of making a Quarto website\n\nIn RStudio\n1. Create a New Directory in RStudio\n\n2. Select Quarto Website\n\n\n\n\n\n3. Enter project name, and ensure that the Create a git repository is ticked\n\n\n\n\n\n4. Rename the default _site folder to docs.\n5. in _quarto.yml, add a line output-dir: docs\n\n\n\n\n\n6. add a .nojekyll file to the root of your repository\nIt tells GitHub Pages not to do additional processing of your published site using Jekyll.\n\nFor WindowsFor Mac/Linux\n\n\n\n\n\nTerminal\n\ntouch .nojekyll\n\n\n\n\n\n\n\nTerminal\n\ncopy NUL .nojekyll\n\n\n\n\n\n\n\nIn GitHub\n\nCreate a new repository.\nPush the local snapshot to Github.\nConfigure your GitHub repository to publish from the docs directory of your main branch:\n\n\nOnce you’ve made this configuration change GitHub will trigger a deployment of your website. Your site will also be updated whenever you commit and push to main.\nFor more information:\n1. GitHub Pages Overview\n2. YouTube Guide"
   }
 ]

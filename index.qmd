@@ -4,24 +4,18 @@ title: "Destination"
 
 Lara, Eric and Yang will go for a trip to Japan and China soon. Here are some of the main destinations:
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ## Japan
 
 ![Honda Collection Hall, Motegi](img/motegi.jpg)
 
-
 ![Tōshō-gū, Nikkō](img/nikko.jpg)
 
-
 ![City view, Tokyo](img/tokyo.jpg)
-
 
 ## China
 
 ![Forbidden City, Beijing](img/beijing.jpg)
 
-
 ![City view, Karamay](img/karamay.jpg)
-
 :::
